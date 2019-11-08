@@ -1,0 +1,1 @@
+A simple windows dll example for codeblocks.

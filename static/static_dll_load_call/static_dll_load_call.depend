@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573233956 source:z:\dll-load_example_codeblock\static\static_dll_load_call\main.c
+	<stdio.h>
+	"export.h"
+
+1573231967 z:\dll-load_example_codeblock\static\static_dll_load_call\export.h
+	<windows.h>
+
